@@ -1,0 +1,11 @@
+/Users/iglesias/Projects/albertochallenge/iostests/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/iglesias/Projects/albertochallenge/iostests/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/iglesias/Projects/albertochallenge/iostests/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/iglesias/Projects/albertochallenge/iostests/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/iglesias/Projects/albertochallenge/iostests/obj/iPhone/Debug/device-builds/iphone7.2-8.1/optimized/
+/Users/iglesias/Projects/albertochallenge/iostests/bin/iPhone/Debug/iosTests.exe.mdb
+/Users/iglesias/Projects/albertochallenge/iostests/bin/iPhone/Debug/iosTests.exe
+/Users/iglesias/Projects/albertochallenge/iostests/obj/iPhone/Debug/iosTests.exe
+/Users/iglesias/Projects/albertochallenge/iostests/obj/iPhone/Debug/iosTests.exe.mdb
+/Users/iglesias/Projects/albertochallenge/iostests/bin/iPhone/Debug/Shared.dll
+/Users/iglesias/Projects/albertochallenge/iostests/bin/iPhone/Debug/Shared.dll.mdb

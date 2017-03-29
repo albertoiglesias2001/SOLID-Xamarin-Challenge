@@ -1,0 +1,5 @@
+/Users/iglesias/Projects/albertochallenge/albertochallenge/obj/iPhone/Debug/device-builds/iphone7.2-8.1/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/iglesias/Projects/albertochallenge/albertochallenge/obj/iPhone/Debug/device-builds/iphone7.2-8.1/mtouch-cache/Link/Shared.dll
+/Users/iglesias/Projects/albertochallenge/albertochallenge/obj/iPhone/Debug/device-builds/iphone7.2-8.1/mtouch-cache/Link/mscorlib.dll
+/Users/iglesias/Projects/albertochallenge/albertochallenge/obj/iPhone/Debug/device-builds/iphone7.2-8.1/mtouch-cache/Link/albertochallenge.exe
+/Users/iglesias/Projects/albertochallenge/albertochallenge/obj/iPhone/Debug/device-builds/iphone7.2-8.1/mtouch-cache/Link/System.dll

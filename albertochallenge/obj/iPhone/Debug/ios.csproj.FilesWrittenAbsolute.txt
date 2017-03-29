@@ -1,0 +1,13 @@
+/Users/iglesias/Projects/albertochallenge/albertochallenge/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/iglesias/Projects/albertochallenge/albertochallenge/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/iglesias/Projects/albertochallenge/albertochallenge/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/iglesias/Projects/albertochallenge/albertochallenge/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/iglesias/Projects/albertochallenge/albertochallenge/obj/iPhone/Debug/device-builds/iphone7.2-8.1/optimized/
+/Users/iglesias/Projects/albertochallenge/albertochallenge/bin/iPhone/Debug/Shared.dll
+/Users/iglesias/Projects/albertochallenge/albertochallenge/bin/iPhone/Debug/Shared.dll.mdb
+/Users/iglesias/Projects/albertochallenge/albertochallenge/bin/iPhone/Debug/albertochallenge.exe.mdb
+/Users/iglesias/Projects/albertochallenge/albertochallenge/bin/iPhone/Debug/albertochallenge.exe
+/Users/iglesias/Projects/albertochallenge/albertochallenge/obj/iPhone/Debug/albertochallenge.exe
+/Users/iglesias/Projects/albertochallenge/albertochallenge/obj/iPhone/Debug/albertochallenge.exe.mdb
+/Users/iglesias/Projects/albertochallenge/albertochallenge/obj/iPhone/Debug/device-builds/iphone7.2-8.1/optimized/logo.png
+/Users/iglesias/Projects/albertochallenge/albertochallenge/obj/iPhone/Debug/device-builds/iphone7.2-8.1/optimized/logo35.png
